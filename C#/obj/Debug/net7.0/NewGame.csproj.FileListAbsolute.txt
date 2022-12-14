@@ -1,0 +1,15 @@
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\bin\Debug\net7.0\NewGame.exe
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\bin\Debug\net7.0\NewGame.deps.json
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\bin\Debug\net7.0\NewGame.runtimeconfig.json
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\bin\Debug\net7.0\NewGame.dll
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\bin\Debug\net7.0\NewGame.pdb
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.csproj.AssemblyReference.cache
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.AssemblyInfoInputs.cache
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.AssemblyInfo.cs
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.dll
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\refint\NewGame.dll
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.pdb
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\NewGame.genruntimeconfig.cache
+C:\Users\giovanni.nihei\Documents\GitHub\NewGame\obj\Debug\net7.0\ref\NewGame.dll
