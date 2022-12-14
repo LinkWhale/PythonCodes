@@ -1,0 +1,1 @@
+print("I love programing but teacher is kinda \"boring\"")
